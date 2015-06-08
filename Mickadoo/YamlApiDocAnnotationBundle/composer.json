@@ -5,6 +5,10 @@
         "symfony/symfony": "^2.5",
         "nelmio/api-doc-bundle": "^2.9"
     },
+    "autoload": {
+      "psr-0": { "Mickadoo\\YamlApiDocAnnotationBundle": "" }
+    },
+    "target-dir": "Mickadoo/YamlApiDocAnnotationBundle",
     "authors": [
         {
             "name": "Michael Devery",
