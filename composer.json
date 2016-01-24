@@ -2,8 +2,8 @@
     "name": "mickadoo/yamlapidoc",
     "description": "Provides a way to hide your Nelmio Api Doc Blocks in yaml files",
     "require": {
-        "symfony/symfony": "^2.5",
-        "nelmio/api-doc-bundle": "^2.9"
+        "symfony/symfony": ">2.5",
+        "nelmio/api-doc-bundle": ">2.9"
     },
     "autoload": {
       "psr-0": { "Mickadoo\\YamlApiDocAnnotationBundle": "" }
